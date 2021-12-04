@@ -1,6 +1,6 @@
 # HSKit
 
-A description of this package.
+It's the Swift Package Manager made at **Magascar Coding Club**.
 
 ## Installation
 
